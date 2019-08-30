@@ -1,0 +1,9 @@
+INFO:uvicorn:Started server process [84033]
+INFO:uvicorn:Waiting for application startup.
+INFO:uvicorn:Uvicorn running on http://127.0.0.1:8000 (Press CTRL+C to quit)
+INFO:uvicorn:('127.0.0.1', 32924) - "GET /docs HTTP/1.1" 200
+INFO:uvicorn:('127.0.0.1', 32924) - "GET /openapi.json HTTP/1.1" 200
+INFO:uvicorn:('127.0.0.1', 32924) - "GET /docs HTTP/1.1" 200
+INFO:uvicorn:('127.0.0.1', 32924) - "GET /openapi.json HTTP/1.1" 200
+ERROR:root:Something went wrong!
+INFO:uvicorn:('127.0.0.1', 32926) - "POST /predict HTTP/1.1" 200
