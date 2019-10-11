@@ -8,3 +8,4 @@ documentation using OpenAPI (Swagger) and ReDoc.
 
 The Dockerfile is included if you would like to containerize the application
 and deploy it on the cloud. 
+<img src="https://github.com/MaartenGr/ML-API/blob/master/deploy.jpg"/>
